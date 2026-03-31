@@ -7,7 +7,7 @@ export default function Home() {
         </p>
 
         <h1 className="mb-6 text-5xl font-bold tracking-tight sm:text-6xl">
-          Fox 34 Media
+          Fox 1 Media
         </h1>
 
         <p className="mb-8 max-w-2xl text-lg text-gray-600 sm:text-xl">
