@@ -4,7 +4,7 @@ export default function Home() {
       style={{
         height: "100vh",
         width: "100%",
-        backgroundImage: "url('/hero.jpg')", // <-- match your file name
+        backgroundImage: "url('/soon.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
